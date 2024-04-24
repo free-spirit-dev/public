@@ -139,7 +139,7 @@
 <code>&gt;=</code><br/>
 <code>=</code><br/>
 </td>
-        <td rowspan="2"><code>cd<1m</code><br/>注册日期小于一月</td>
+        <td rowspan="4"><code>cd<1m</code><br/>注册日期小于一月</td>
     </tr>
     <tr>
         <td rowspan="3">仅搜索</td>
